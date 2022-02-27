@@ -1,8 +1,8 @@
 server:
-  port: 9001
+  port: 9002
 Spring:
   application:
-    name: nacos-provider
+    name: nacos-provider-01
     cloud:
       discovery:
         server-addr: 169.254.47.44:8848
